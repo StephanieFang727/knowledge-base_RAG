@@ -1,0 +1,13 @@
+torch
+langchain
+openai
+faiss-cpu
+python-dotenv
+tiktoken
+markdown
+unstructured    
+langchain-community
+sentence-transformers
+fastapi
+uvicorn
+python-multipart
